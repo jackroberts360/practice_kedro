@@ -1,0 +1,7 @@
+a_raw_day_one_test: 
+  type: text.TextDataSet
+  filepath: data/a_raw/day_one_test.txt
+
+a_raw_day_one: 
+  type: text.TextDataSet
+  filepath: datag/a_raw/day_one.txt
